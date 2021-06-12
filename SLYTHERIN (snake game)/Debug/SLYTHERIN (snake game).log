@@ -1,0 +1,7 @@
+﻿  main.cpp
+C:\Users\Rhea\source\repos\SLYTHERIN (snake game)\SLYTHERIN (snake game)\main.cpp(105,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Rhea\source\repos\SLYTHERIN (snake game)\SLYTHERIN (snake game)\main.cpp(110,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Rhea\source\repos\SLYTHERIN (snake game)\SLYTHERIN (snake game)\main.cpp(115,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Rhea\source\repos\SLYTHERIN (snake game)\SLYTHERIN (snake game)\main.cpp(123,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Rhea\source\repos\SLYTHERIN (snake game)\SLYTHERIN (snake game)\main.cpp(129,20): warning C4018: '<': signed/unsigned mismatch
+  SLYTHERIN (snake game).vcxproj -> C:\Users\Rhea\source\repos\SLYTHERIN (snake game)\Debug\SLYTHERIN (snake game).exe
